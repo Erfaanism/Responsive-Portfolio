@@ -221,7 +221,7 @@ div.portfolioItems:nth-child(even){
 	height: auto;
 	margin-right: 35%;
 	margin-left: 35%;
-	border: 1px solid rgb(50, 130, 50);
+	border: 1px solid #111;
 	padding: 10px;
 }
 
@@ -277,7 +277,7 @@ footer {
 
 /*Media querries begin*/
 
-@media handheld, screen and (max-width: 980px) {
+@media only handheld, screen and (max-width: 980px) {
 	
 	.aboutImage {
 		min-width: 100%;
