@@ -249,7 +249,7 @@ a.logo {
 
 a.logo img {
 	max-width: 90%;
-	height: 90%;
+	height: auto;
 	padding: 5%;
 }
 
