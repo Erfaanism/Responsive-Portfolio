@@ -73,7 +73,7 @@ ul.menu {
 }
 
 ul.menu a:link {
-	color: #999;
+	color: #aaa;
 	text-decoration: none;
 }
 
@@ -83,7 +83,7 @@ ul.menu a:hover {
 }
 
 ul.menu a:visited {
-	color: #888888;
+	color: #999;
 	text-decoration: none;
 }
 
